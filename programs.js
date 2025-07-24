@@ -157,29 +157,33 @@
 // }
 
 // program-15
-let x = 4
-let y = 2;
-let a = x + y;
-let b = x - y;
-let c = x*y;
-let d = x/y;
-console.log(a);
-console.log(b);
-console.log(c);
-console.log(d);
+// let x = 4
+// let y = 2;
+// let a = x + y;
+// let b = x - y;
+// let c = x*y;
+// let d = x/y;
+// console.log(a);
+// console.log(b);
+// console.log(c);
+// console.log(d);
 
 // program-16
 
 
-var gcd = function(a, b) {
-    if (!b) {
-      return a;
-    }
-  
-    return gcd(b, a % b);
-  }
+// var gcd = function(a, b) {
+//     if (!b) {
+//       return a;
+//     }
+//     return gcd(b, a % b);
+//   }
+// console.log(gcd(20,28));
 
-console.log(gcd(20,28));
+// program-17
+
+
+
+
 
 
 
