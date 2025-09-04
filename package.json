@@ -20,6 +20,7 @@
   "homepage": "https://github.com/poojasolanki318/240823101#readme",
   "dependencies": {
     "express": "^5.1.0",
+    "mongoose": "^8.18.0",
     "nodemon": "^3.1.10"
   }
 }
